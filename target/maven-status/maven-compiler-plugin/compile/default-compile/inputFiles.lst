@@ -1,0 +1,10 @@
+C:\Users\user\git\spring-boot-batch1\src\main\java\com\cham\samplebootbatchapp\writer\GenericJdbcBatchItemWriter.java
+C:\Users\user\git\spring-boot-batch1\src\main\java\com\cham\samplebootbatchapp\listnener\JobCompletionNotificationListener.java
+C:\Users\user\git\spring-boot-batch1\src\main\java\com\cham\samplebootbatchapp\reader\GenericFlatFileItemReader.java
+C:\Users\user\git\spring-boot-batch1\src\main\java\com\cham\samplebootbatchapp\jobdef\JobBase.java
+C:\Users\user\git\spring-boot-batch1\src\main\java\com\cham\samplebootbatchapp\mapper\GenericLineMapper.java
+C:\Users\user\git\spring-boot-batch1\src\main\java\com\cham\samplebootbatchapp\processor\PersonItemProcessor.java
+C:\Users\user\git\spring-boot-batch1\src\main\java\com\cham\samplebootbatchapp\reader\GenericJdbcCursorItemReader.java
+C:\Users\user\git\spring-boot-batch1\src\main\java\com\cham\samplebootbatchapp\SampleBootBatchAppApplication.java
+C:\Users\user\git\spring-boot-batch1\src\main\java\com\cham\samplebootbatchapp\DemoJobDef.java
+C:\Users\user\git\spring-boot-batch1\src\main\java\com\cham\samplebootbatchapp\pojo\Person.java
